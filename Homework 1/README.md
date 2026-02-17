@@ -1,7 +1,7 @@
 # Assignment 1: Spike Trains and the Leaky Integrate-And-Fire Neuron
 ECE 556: Neuromorphic Computing  
 Instructor: Dr. Maryam Parsa  
-Term: Spring 2025   
+Term: Spring 2026   
 
 ___
 
